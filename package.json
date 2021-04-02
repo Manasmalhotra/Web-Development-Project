@@ -1,7 +1,7 @@
 {
   "name": "Web-Development-Project-main",
   "version": "1.0.0",
-  "description": "",
+  "description": "Configuration file format shall be updated soon.. Cannot share the exact file as per security reasons.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "apollo-server": "^2.22.2",
     "bcryptjs": "^2.4.3",
-    "jsonwebtoken": "^8.5.1"
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3",
+    "react-router-dom": "^5.2.0",
+    "semantic-ui-react": "^2.0.3",
+    "user": "^0.0.0"
   }
 }
